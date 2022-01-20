@@ -1,6 +1,5 @@
-# vue_shop
+# vue_student_management
 
-## Project setup
 ```
 npm install
 ```
